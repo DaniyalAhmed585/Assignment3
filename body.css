@@ -1,0 +1,378 @@
+@font-face {
+    font-family: SourceSerif_Bold;
+    src: url('Font/SourceSerifPro-Bold.ttf');
+}
+@font-face {
+    font-family: Merriweather_Light;
+    src: url('Font/Merriweather-Light.ttf');
+}
+
+
+                                           /* PARAGRAPHS EDITING */
+#body {
+    background-color: rgb(247,248,250);
+    position: absolute;
+    top: 112%;
+    left: 0%;
+}
+.intro {
+    font-size: 35px;
+    text-align: center;
+    color: rgb(55,109,195);
+    margin-top: 4%;
+    font-family: SourceSerif_Bold;
+
+}
+.duction {
+    color: rgb(66,121,1);
+}
+.saylaniIntro {
+    margin-left: 45%;
+    margin-top: -1.5%;
+}
+#paragraph {
+    font-family: OpenSans;
+    font-size: 0.87em;
+    line-height: 2em;
+    color: rgb(102,102,102);
+    text-align: justify;
+    margin: 2% 15% 7%;
+}
+.pp {
+    margin-bottom: 3%;
+}
+
+
+                                           /* NUMBER BOX EDITING */
+#numbers {
+    background-color: rgb(48,86,233);
+    margin-top: 53%;
+    margin-left: -1%;
+    width: 101.6%;
+    height: 320px;
+}
+.col {
+    float: left;
+}
+
+                                           /* FOOD NUMBERS */
+.food {
+    font-family: Merriweather_Light;
+    padding-top: 20px;
+    margin-top: -6px;
+    padding-left: 155px;
+    font-size: 50px;
+    color: white;
+}
+.food01 {
+    font-family: SourceSerif_Bold;
+    font-size: 17px;
+    color: white;
+    padding-left: 90px;
+    margin-top: -7%;
+}
+.food02 {
+    color: rgb(122,252,22);
+    font-size: 22px;
+}
+#food {
+    margin-top: 80px;
+    margin-left: 225px;
+}
+
+                                           /* ADOPTION NUMBERS */
+.famadop {
+    font-family: Merriweather_Light;
+    margin-top: -6px;
+    padding-top: 20px;
+    padding-left: 120px;
+    font-size: 50px;
+    color: white;
+}
+.famadop01 {
+    font-family: SourceSerif_Bold;
+    font-size: 17px;
+    color: white;
+    padding-left: 40px;
+    margin-top: -9%;
+}
+.famadop02 {
+    color: rgb(122,252,22);
+    font-size: 22px;
+}
+#famadop {
+    margin-top: 85px;
+    margin-left: 165px;
+}
+
+                                           /* MEDICAL NUMBERS */
+.med {
+    font-family: Merriweather_Light;
+    margin-top: -6px;
+    padding-top: 12px;
+    padding-left: 85px;
+    font-size: 50px;
+    color: white;
+}
+.med01 {
+    font-family: SourceSerif_Bold;
+    font-size: 17px;
+    color: white;
+    padding-left: 60px;
+    margin-top: -12%;
+}
+.med02 {
+    color: rgb(122,252,22);
+    font-size: 22px;
+}
+#med {
+    margin-top: 85px;
+    margin-left: 150px;
+}
+
+                                           /* EDUCATION NUMBERS */
+.edu {
+    font-family: Merriweather_Light;
+    margin-top: -6px;
+    padding-top: 15px;
+    padding-left: 90px;
+    font-size: 50px;
+    color: white;
+}
+.edu01 {
+    font-family: SourceSerif_Bold;
+    font-size: 17px;
+    color: white;
+    padding-left: 70px;
+    margin-top: -11%;
+}
+.edu02 {
+    color: rgb(122,252,22);
+    font-size: 22px;
+}
+#edu {
+    margin-top: 85px;
+    margin-left: 165px;
+}
+
+
+                                           /* BIGBOXES EDITING */
+#ourwork {
+    background-color: rgb(247,248,250);
+    margin-top: -2%;
+    margin-left: -1%;
+    width: 101.6%;
+    height: 650px;
+}
+.what {
+    font-size: 35px;
+    text-align: center;
+    color: rgb(55,109,195);
+    font-family: SourceSerif_Bold;
+    padding-top: 4%;
+
+}
+.doing {
+    color: rgb(66,121,1);
+}
+
+
+.boxheading {
+    text-align: center;
+    color: rgb(55,109,195);
+}
+
+                                           /* BOX 1 */
+.bigbox1 {
+    float: left;
+    margin-left: 110px;
+    margin-top: 50px;
+    width: 360px;
+    height: 183px;
+    box-shadow: 0px 0px 16px rgba(0,0,0,0.2);
+    background-color: white;
+}
+#imgbox1 {
+    margin-left: 145px;
+    margin-top: 30px;
+}
+
+                                           /* BOX 2 & 3 */
+.bigbox23 {
+    float: left;
+    margin-left: 30px;
+    margin-top: 50px;
+    width: 360px;
+    height: 183px;
+    box-shadow: 0px 0px 16px rgba(0,0,0,0.2);
+    background-color: white;
+}
+#imgbox2 {
+    margin-left: 145px;
+    margin-top: 45px;
+}
+#imgbox3 {
+    margin-left: 140px;
+    margin-top: 33px;
+}
+
+                                           /* BOX 4 */
+.bigbox4 {
+    float: left;
+    margin-left: 110px;
+    margin-top: 25px;
+    width: 360px;
+    height: 183px;
+    box-shadow: 0px 0px 16px rgba(0,0,0,0.2);
+    background-color: white;
+}
+#imgbox4 {
+    margin-left: 145px;
+    margin-top: 30px;
+}
+
+                                           /* BOX 5 & 6 */
+.bigbox56 {
+    float: left;
+    margin-left: 30px;
+    margin-top: 25px;
+    width: 360px;
+    height: 183px;
+    box-shadow: 0px 0px 16px rgba(0,0,0,0.2);
+    background-color: white;
+}
+#imgbox5 {
+    margin-left: 145px;
+    margin-top: 20px;
+}
+#imgbox6 {
+    margin-left: 145px;
+    margin-top: 20px;
+}
+
+
+                                           /* UPCOMING PROJECTS EDITING */
+#mission {
+    font-family: SourceSerif_Bold;
+    margin-top: 30px;
+    color: rgb(55,109,195);
+    float: left;
+    margin-left: 95px;
+
+}
+#mis {
+    font-size: 25px;
+}
+#mis hr {
+     background-color: rgb(66,121,1);
+     border: none;
+     height: 2px;
+     width: 50px;
+     margin-left: -0.1%;
+}
+#mis1, #mis2, #mis3, #mis4 {
+    color: rgb(55,109,195);
+    margin-left: 80px;
+    font-size: 17px;
+}
+.m1, .m3 {
+    float: left;
+    width: 360px;
+    height: 70px;
+    background-color: rgb(247,248,250);
+    border: 1px solid rgb(238,238,238);
+    margin-top: 20px;
+    font-weight: bold;
+}
+.m2, .m4 {
+    float: left;
+    width: 360px;
+    height: 70px;
+    background-color: rgb(247,248,250);
+    border: 1px solid rgb(238,238,238);
+    margin-left: 30px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+.m3 {
+    clear: left;
+}
+.m1 img {
+    padding-top: 20px;
+}
+#mis1 {
+    margin-top: -6%;
+}
+.m2 img {
+    padding-top: 12px;
+}
+#mis2 {
+    margin-top: -8%;
+}
+.m3 img {
+    padding-top: 15px;
+}
+#mis3 {
+    margin-top: -6.4%;
+}
+.m4 img {
+    padding-top: 20px;
+}
+#mis4 {
+    margin-top: -6%;
+}
+
+
+                                           /* UPCOMING EVENTS EDIT */
+#events {
+    font-family: SourceSerif_Bold;
+    margin-top: 30px;
+    color: rgb(55,109,195);
+    float: left;
+    margin-left: 30px;
+}
+#eve {
+    font-size: 25px;
+}
+#eve hr {
+    background-color: rgb(238,238,238);
+    border: none;
+    height: 1px;
+    width: 350px;
+}
+#marquee2 {
+    margin-top: 20px;
+    width: 250px;
+    height: 200px;
+    font-family: OpenSans;
+    font-size: 0.87em;
+    line-height: 2em;
+}
+.grey {
+    color: rgb(102,102,102);
+}
+
+
+                                           /* IMAGE GALLERY EDIT */
+.imgal{
+    clear: both;
+    margin-left: -1%;
+    width: 101.6%;
+    height: 550px;
+}
+.image {
+    font-size: 35px;
+    color: rgb(55,109,195);
+    text-align: center;
+    font-family: SourceSerif_Bold;
+    padding-top: 7%;
+
+}
+.gallery {
+    color: rgb(66,121,1);
+}
+
+.pictures {
+    margin-top: 2%;
+    margin-left: 5%;
+}

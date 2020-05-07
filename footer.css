@@ -1,0 +1,154 @@
+#footer {
+    background-color: rgb(37,39,46);
+    width: 101.6%;
+    margin-left: -1%;
+    height: 400px;
+}
+#footerone {
+    padding-top: 5%;
+}
+#footerpara1 {
+    color: rgb(174,174,175);
+    margin-left: 8%;
+    line-height: 2em;
+    font-family: OpenSans;
+    font-size: 0.87em;
+}
+
+
+#contactimg {
+    margin-left: 8.5%;
+}
+
+
+#contact1 {
+    color: rgb(174,174,175);
+    margin-left: 10%;
+    margin-top: -1.1%;
+    font-family: OpenSans;
+    font-size: 0.87em;
+}
+
+
+#contactimg2 {
+    position: absolute;
+    top: 544%;
+    left: 13%;
+}
+#contact2 {
+    color: rgb(174,174,175);
+    margin-left: 22.3%;
+    margin-top: -2.4%;
+    font-family: OpenSans;
+    font-size: 0.87em;
+}
+
+
+
+#contact3 {
+    color: rgb(174,174,175);
+    margin-left: 10%;
+    margin-top: -1.2%;
+    font-family: OpenSans;
+    font-size: 0.87em;
+}
+
+
+
+#contact4 {
+    color: rgb(174,174,175);
+    margin-left: 10%;
+    margin-top: -1.2%;
+    font-family: OpenSans;
+    font-size: 0.87em;
+}
+
+
+
+#contact5 {
+    color: rgb(174,174,175);
+    margin-left: 10%;
+    margin-top: -1.1%;
+    font-family: OpenSans;
+    font-size: 0.87em;
+}
+
+
+
+#contact6 {
+    color: rgb(174,174,175);
+    margin-left: 10.5%;
+    margin-top: -1%;
+    font-family: OpenSans;
+    font-size: 0.87em;
+}
+
+
+#footertwo {
+    float: left;
+    margin-left: 37%;
+    margin-top: -21%;
+}
+#footerpara2 {
+    color: white;
+    line-height: 2em;
+    font-family: OpenSans;
+    font-weight: bold;
+}
+#hr1 {
+    margin-top: -4%;
+    width: 50px;
+    margin-left: 0%;
+    border: none;
+    height: 2px;
+    background-color: rgb(66,121,1);
+}
+#hr2 {
+    margin-top: -2.7%;
+    margin-left: 16%;
+    height: 1px;
+    border: none;
+    background-color: rgb(68,68,68);
+    width: 310px;
+}
+
+
+#footerthree {
+    float: left;
+    margin-top: -21%;
+    margin-left: 66%;
+    width: 200px;
+}
+#footerpara3 {
+    color: white;
+    line-height: 2em;
+    font-family: OpenSans;
+    font-weight: bold;
+}
+#footerthree .fa {
+    padding: 9px;
+    font-size: 13px;
+    width: 12px;
+    border-radius: 50%;
+    margin-left: 3%;
+}
+#footerthree .fa-facebook {
+    margin-left: -1%;
+}
+
+
+#last {
+    width: 101%;
+    margin-top: 5%;
+    margin-left: -1%;
+    height: 45px;
+    background-color: rgb(57,109,218);
+}
+
+#lastline {
+    margin-left: 9%;
+    padding-top: 17px;
+    font-size: 11px;
+    font-family: OpenSans;
+    color: white;
+}

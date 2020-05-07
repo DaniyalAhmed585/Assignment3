@@ -1,0 +1,76 @@
+@font-face{
+  font-family: OpenSans;
+  src: url('Font/OpenSans-Regular.ttf');
+}
+@font-face{
+  font-family: OpenSans-SemiBold;
+  src: url('Font/OpenSans-SemiBold.ttf');
+}
+@font-face{
+  font-family: OpenSans-Light;
+  src: url('Font/OpenSans-Light.ttf');
+}
+#header1{
+    background-color: rgb(55,109,195);
+    margin: -0.6%;
+    padding: 0.5% 0.5% 0.5% 0.5%;
+    font-family: OpenSans;
+}
+.fa {
+    padding: 0.5% 1% 0.8% 0.7%;
+    width: 1%;
+    text-align: center;
+    text-decoration: none;
+    margin-top: 0.1%;
+  }
+  .fa:hover {
+    background-color: rgb(55,109,210);
+  }
+.fa-facebook {
+    background: rgb(55,109,195);
+    color: white;
+    margin-left: 7.2%;
+  }
+  .fa-twitter {
+    background: rgb(55,109,195);
+    color: white;
+  }
+  .fa-instagram {
+    background: rgb(55,109,195);
+    color: white;
+  }
+  .fa-youtube{ 
+    background: rgb(55,109,195);
+    color: white;
+  }
+  .fa-whatsapp {
+    background: rgb(55,109,195);
+    color: white;
+  }
+  #millions{
+    display: inline;
+    margin-left: 9.2%;
+    font-size: 0.9em;
+    color: white;
+  }
+  .buttons a {
+    color: rgb(66,121,1);
+    text-decoration: none;
+  }
+  .buttons {
+    height: 2.5em;
+    position: relative;
+    left: 3.9%;
+    width: 6.4%;
+    cursor: pointer;
+    border-style: solid;
+    border-width: thin;
+    border-color: rgb(66,121,1);
+    font-size: 0.7em;
+    padding-bottom: 0.2%;
+    font-family: OpenSans-Light;
+    font-weight: 600;
+  }
+  #uk {
+   width: 5.4%;
+ }
